@@ -1,7 +1,5 @@
 ### Hi there! 😁
-My name is Carlos George from Brazil (🇧🇷). I've been working as Back-End Developer since 2007 and currently I'm Systems Analyst at [Sicoob Confederação](https://www.sicoob.com.br/).
-
-Now, I'm going deeper into being Full Stack with [Node.js](https://nodejs.org/en/), [React.js](https://pt-br.reactjs.org/) and [React Native](https://reactnative.dev/)
+My name is Carlos George from Brazil (🇧🇷). I've been working as Back-End Developer since 2007 and currently I'm Software Engineer at [CI&T](https://ciandt.com/br/).
 
 In my free time, I'm just a triathlete
 
