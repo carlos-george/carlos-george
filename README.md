@@ -1,6 +1,8 @@
 ### Hi there! 😁
 My name is Carlos George from Brazil (🇧🇷). I've been working as Back-End Developer since 2007 and currently I'm Software Engineer at [CI&T](https://ciandt.com/br/).
 
+Focused on Cloud Architecture and Microservices
+
 In my free time, I'm just a triathlete
 
 Would you like to find me?
